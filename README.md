@@ -27,6 +27,3 @@ Aqui está um exemplo de uma das animações geradas:
 
 ## 📜 Licença  
 Este projeto é distribuído sob a licença **MIT**, permitindo o uso, modificação e compartilhamento livre do código.  
-
-## ✉ Contato  
-Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato! 😊  
