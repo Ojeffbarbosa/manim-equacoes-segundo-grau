@@ -1,10 +1,10 @@
 # Manim aplicado ao ensino de equacoes do segundo grau  
 
-Este repositório contém animações desenvolvidas com **Manim** para ilustrar conceitos fundamentais do ensino de **equações do segundo grau**. O material foi produzido como parte de um artigo acadêmico baseado em estudos com alunos do **9º ano**, com o objetivo de proporcionar uma **visualização intuitiva** e **dinâmica** de métodos clássicos de resolução.  
+Este repositório contém animações desenvolvidas com **Manim** para ilustrar conceitos fundamentais do ensino de **equações quadráticas**. O material foi produzido como parte de um artigo acadêmico baseado em estudos com alunos do **9º ano**, com o objetivo de proporcionar uma **visualização intuitiva** e **dinâmica** de métodos clássicos de resolução.  
 
 As animações abordam:  
 - **Uma animação que resolve uma equação de segundo grau via completamento de quadrados**. 
-- A **dedução da fórmula de Bhaskara**, mostrando o raciocínio passo a passo.  
+- A **dedução da fórmula resolutiva de equações quadráticas**, mostrando o raciocínio passo a passo.  
 
 ## 🔧 Tecnologias utilizadas  
 Para criar as animações, utilizamos:  
@@ -14,9 +14,8 @@ Para criar as animações, utilizamos:
 ## 📂 Estrutura do repositório  
 ```bash
 manim-aplicado-ao-ensino-de-equacoes-segundo-grau/
-│── animations/          # Arquivos de animação Manim (.py)
-│── rendered_videos/     # Vídeos renderizados das animações (.mp4)
-│── images/              # Capturas de tela das animações
+│── codigos/          # Arquivos de animação Manim (.py)
+│── videos/     # Vídeos renderizados das animações (.mp4)
 │── README.md            # Documentação do projeto
 ```
 
