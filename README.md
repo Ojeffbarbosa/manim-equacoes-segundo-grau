@@ -16,7 +16,6 @@ Para criar as animações, utilizamos:
 manim-aplicado-ao-ensino-de-equacoes-segundo-grau/
 │── codigos/          # Arquivos de animação Manim (.py)
 │── videos/     # Vídeos renderizados das animações (.mp4)
-│── README.md            # Documentação do projeto
 ```
 
 ## 📺 Exemplo de animação  
