@@ -21,7 +21,7 @@ manim-aplicado-ao-ensino-de-equacoes-segundo-grau/
 ## 📺 Exemplo de animação  
 Aqui está um exemplo de uma das animações geradas:  
 
-![Exemplo de animação](images/exemplo.gif)  
+![trecho acelerado](gif_trecho_acelerado.gif)  
 
 ## 📜 Licença  
 Este projeto é distribuído sob a licença **MIT**, permitindo o uso, modificação e compartilhamento livre do código.  
